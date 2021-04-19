@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://gofortheeyezboo.github.io/blogsitemap.xml
